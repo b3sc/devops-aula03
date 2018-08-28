@@ -2,8 +2,8 @@
 Ferramentas de Controle de versão:
 
 mercurial
-git
 gitlab
+git
 github
 subversion
 CVS
